@@ -1,0 +1,6 @@
+{
+  "name": "New Life Fitness",
+  "description": "Official app for New Life Fitness Center. Transform Your Health. Transform Your Life. Verified services, direct WhatsApp enquiries, genuine results, and contact.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
